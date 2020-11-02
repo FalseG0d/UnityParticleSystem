@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="http://apoorvgarg.herokuapp.com/">
-    <img src="images/Logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/FalseG0d/AdvancedDjango/raw/main/images/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Made By FalseG0d</h3>
@@ -31,10 +31,11 @@
 </p>
 
 
+![Product Name Screen Shot][product-screenshot]
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-![Product Name Screen Shot][product-screenshot]
 
 * [Getting Started](#getting-started)
 * [Prerquisites](#prerquisites)
