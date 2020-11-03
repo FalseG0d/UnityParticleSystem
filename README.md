@@ -75,6 +75,32 @@ git clone https://github.com/FalseG0d/UnityParticleSystem.git
 * [Unity Engine](https://unity.com/) - Game Engine
 * [Krita](https://krita.org/en/) - Graphics Design
 
+## Contributing
+
+Any and all creative changes or effectss welcomed by us. Just make sure to follow the steps and [conduct](CONTRIBUTING.md) while making any changes.
+
+### Steps
+
+1. Raise An Issues.
+
+2. Clone Repository.
+
+```sh
+git clone https://github.com/FalseG0d/UnityParticleSystem.git
+```
+
+3. Update Packages
+
+
+4. Make Changes/Add Feature.
+
+
+5. Make A Pull Request(Make Sure To Add Proper Description And Documentation).
+
+
+6. If the changes made by you are not offensive and you have followed the conduct. We will be more than happy to merge your feature in the main branch.
+
+
 ## Authors
 
 * **False God** - *Initial work* - [FalseG0d](https://github.com/FalseG0d)
