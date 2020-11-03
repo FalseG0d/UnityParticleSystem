@@ -77,7 +77,7 @@ git clone https://github.com/FalseG0d/UnityParticleSystem.git
 
 ## Contributing
 
-Any and all creative changes or effectss welcomed by us. Just make sure to follow the steps and [conduct](.CONTRIBUTING.md) while making any changes.
+Any and all creative changes or effectss welcomed by us. Just make sure to follow the steps and [conduct](CONTRIBUTING.md) while making any changes.
 
 ### Steps
 
