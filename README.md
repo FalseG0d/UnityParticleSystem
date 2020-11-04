@@ -105,7 +105,7 @@ git clone https://github.com/FalseG0d/UnityParticleSystem.git
 
 * **False God** - *Initial work* - [FalseG0d](https://github.com/FalseG0d)
 
-Your Name - [@ApoorvG03132459](https://twitter.com/ApoorvG03132459) - u.garg.10@gmail.com
+Apoorv Garg - [@ApoorvG03132459](https://twitter.com/ApoorvG03132459) - u.garg.10@gmail.com
 
 Project Link: [https://github.com/FalseG0d/UnityParticleSystem](https://github.com/FalseG0d/UnityParticleSystem)
 
